@@ -1,6 +1,6 @@
-# python-learning-mini-projects
-I've been learning Python as my first programming language since October 2017 
-The list of projects:
+# python-learning-mini-projects \
+I've been learning Python as my first programming language since October 2017 \
+The list of projects: \
 0 - Name Generator https://github.com/maknetaRo/python-learning-mini-projects/commit/9aadd3bfcbd0d83a6b7fb54e8009515bd507184e
 1 - Higher/Lower Head/Tails https://github.com/maknetaRo/python-learning-mini-projects/commit/b7602172bc66c651c374cd629028fa5c344e6a64
 2 - Age is Seconds https://github.com/maknetaRo/python-learning-mini-projects/blob/master/ageinseconds.py
