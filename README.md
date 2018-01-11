@@ -4,7 +4,7 @@ The list of projects: \
 0 - Name Generator https://github.com/maknetaRo/python-learning-mini-projects/commit/9aadd3bfcbd0d83a6b7fb54e8009515bd507184e \
 1 - Higher/Lower Head/Tails https://github.com/maknetaRo/python-learning-mini-projects/commit/b7602172bc66c651c374cd629028fa5c344e6a64 \
 2 - Age is Seconds https://github.com/maknetaRo/python-learning-mini-projects/blob/master/ageinseconds.py \
-3 - Temperature Converter https://github.com/maknetaRo/python-learning-mini-projects/commit/5d8a66f5270c57fd0447906af1ff8c423b3567f1 \
+3 - Temperature Converter https://github.com/maknetaRo/python-learning-mini-projects/blob/master/temperatureconv.py \
 4 - Encrypt / Decrypt Algorithm \
 5 - Fizz Buzz https://github.com/maknetaRo/python-learning-mini-projects/blob/master/fizzbuzz.py \
 6 - Rock/ Paper / Scissors \
