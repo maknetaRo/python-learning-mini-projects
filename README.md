@@ -5,7 +5,7 @@ The list of projects: \
 1 - Higher/Lower Head/Tails https://github.com/maknetaRo/python-learning-mini-projects/commit/b7602172bc66c651c374cd629028fa5c344e6a64 \
 2 - Age is Seconds https://github.com/maknetaRo/python-learning-mini-projects/blob/master/ageinseconds.py \
 3 - Temperature Converter https://github.com/maknetaRo/python-learning-mini-projects/blob/master/temperatureconv.py \
-4 - Encrypt / Decrypt Algorithm \
+4 - Encrypt / Decrypt Algorithm https://github.com/maknetaRo/python-learning-mini-projects/blob/master/Encrypt_Decrypt_Algorithm.py \
 5 - Fizz Buzz https://github.com/maknetaRo/python-learning-mini-projects/blob/master/fizzbuzz.py \
 6 - Rock/ Paper / Scissors \
 7 - Hangman \
